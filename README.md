@@ -1,3 +1,3 @@
 # belajarawal
 
-belajar memahami github awal
+belajar memahami github 
